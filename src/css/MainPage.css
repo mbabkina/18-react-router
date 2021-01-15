@@ -1,0 +1,12 @@
+body {
+  color: white;
+}
+
+.cover-img {
+  height: 350px;
+  margin: 50px;
+}
+
+p {
+  font-weight: bold;
+}

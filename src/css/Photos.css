@@ -1,0 +1,14 @@
+img {
+  width: 500px;
+  border-radius: 10px;
+}
+
+img + img {
+  margin-top: 20px;
+}
+.photo-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+}
